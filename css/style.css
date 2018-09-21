@@ -1,0 +1,34 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    position: relative;
+    min-width: 1130px;
+}
+
+.empty {
+    height: 50px;
+}
+
+.footer {
+    height: 50px;
+    margin-top: -50px;
+    position: relative;
+    text-align: center;
+}
+
+.container {
+    width: 1110px !important;
+    margin: 0 auto;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
